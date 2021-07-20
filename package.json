@@ -1,10 +1,10 @@
 {
   "name": "@soupjs/cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "bin": {
-    "vue": "./bin/cli.js"
+    "soup": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
